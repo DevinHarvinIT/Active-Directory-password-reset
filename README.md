@@ -1,3 +1,6 @@
+![image alt](https://github.com/DevinHarvinIT/Active-Directory-password-reset/blob/9085155f694cd4b7e6287810b0e1fc8206536406/images/AD%20Lab%20thumbnail.webp)
+
+
 # Password Reset
 
 This lab demonstrates how to locate a user account and reset a password using Active Directory Users and Computers in a domain environment.
