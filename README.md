@@ -35,7 +35,7 @@ This lab demonstrates how to locate a user account and reset a password using Ac
 ## Step 1
 
 ![image alt](https://github.com/DevinHarvinIT/Active-Directory-password-reset/blob/92bbd87b91179786780ec9f2c615b0eb3a4eec0a/images/Shot%201.png)
-![image alt](images/shot-2.png)](https://github.com/DevinHarvinIT/Active-Directory-password-reset/blob/92bbd87b91179786780ec9f2c615b0eb3a4eec0a/images/Shot%202.png)
+![image alt](https://github.com/DevinHarvinIT/Active-Directory-password-reset/blob/92bbd87b91179786780ec9f2c615b0eb3a4eec0a/images/Shot%202.png)
 
 <p align="center"><b>OPENING ACTIVE DIRECTORY USERS AND COMPUTERS</b></p>
 
@@ -48,8 +48,8 @@ Server Manager → Tools → Active Directory Users and Computers
 
 ## Step 2
 
-![image alt](images/shot-3.png)](https://github.com/DevinHarvinIT/Active-Directory-password-reset/blob/92bbd87b91179786780ec9f2c615b0eb3a4eec0a/images/Shot%203.png)
-![image alt](images/shot-4.png)](https://github.com/DevinHarvinIT/Active-Directory-password-reset/blob/92bbd87b91179786780ec9f2c615b0eb3a4eec0a/images/Shot%204.png)
+![image alt](https://github.com/DevinHarvinIT/Active-Directory-password-reset/blob/92bbd87b91179786780ec9f2c615b0eb3a4eec0a/images/Shot%203.png)
+![image alt](https://github.com/DevinHarvinIT/Active-Directory-password-reset/blob/92bbd87b91179786780ec9f2c615b0eb3a4eec0a/images/Shot%204.png)
 
 <p align="center"><b>LOCATING THE USER ACCOUNT IN THE DOMAIN</b></p>
 
@@ -62,7 +62,7 @@ Right-click domain → Find → Enter user name
 
 ## Step 3
 
-![image alt](images/shot-5.png)](https://github.com/DevinHarvinIT/Active-Directory-password-reset/blob/92bbd87b91179786780ec9f2c615b0eb3a4eec0a/images/Shot%205.png)
+![image alt](https://github.com/DevinHarvinIT/Active-Directory-password-reset/blob/92bbd87b91179786780ec9f2c615b0eb3a4eec0a/images/Shot%205.png)
 
 <p align="center"><b>INITIATING PASSWORD RESET</b></p>
 
@@ -75,8 +75,8 @@ Right-click user account → Reset Password
 
 ## Step 4
 
-![image alt](images/shot-6.png)](https://github.com/DevinHarvinIT/Active-Directory-password-reset/blob/92bbd87b91179786780ec9f2c615b0eb3a4eec0a/images/Shot%206.png)
-![image alt](images/shot-7.png)](https://github.com/DevinHarvinIT/Active-Directory-password-reset/blob/92bbd87b91179786780ec9f2c615b0eb3a4eec0a/images/Shot%207.png)
+![image alt](https://github.com/DevinHarvinIT/Active-Directory-password-reset/blob/92bbd87b91179786780ec9f2c615b0eb3a4eec0a/images/Shot%206.png)
+![image alt](https://github.com/DevinHarvinIT/Active-Directory-password-reset/blob/92bbd87b91179786780ec9f2c615b0eb3a4eec0a/images/Shot%207.png)
 
 <p align="center"><b>PASSWORD RESET CONFIGURATION</b></p>
 
