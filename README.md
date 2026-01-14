@@ -34,7 +34,7 @@ This lab demonstrates how to locate a user account and reset a password using Ac
 
 ## Step 1
 
-![image alt](images/shot-1.png)](https://github.com/DevinHarvinIT/Active-Directory-password-reset/blob/92bbd87b91179786780ec9f2c615b0eb3a4eec0a/images/Shot%201.png)
+![image alt](https://github.com/DevinHarvinIT/Active-Directory-password-reset/blob/92bbd87b91179786780ec9f2c615b0eb3a4eec0a/images/Shot%201.png)
 ![image alt](images/shot-2.png)](https://github.com/DevinHarvinIT/Active-Directory-password-reset/blob/92bbd87b91179786780ec9f2c615b0eb3a4eec0a/images/Shot%202.png)
 
 <p align="center"><b>OPENING ACTIVE DIRECTORY USERS AND COMPUTERS</b></p>
